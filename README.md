@@ -17,7 +17,7 @@ Many different functions can be used for manipulating strings in various ways. H
 
 These are just a few examples, there are many more string functions available in Python that can be used for different purposes.
 
-# Advanced Number Functions# Advanced Number Functions
+# Advanced Number Functions
 
 Python provides various built-in functions that can be used for performing different operations on numbers. Here are some examples:
 
